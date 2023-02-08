@@ -1,0 +1,16 @@
+id: I0FE252DA
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:55:07.779427
+last_modified: 2023-02-08 14:55:07.779558
+source_metadata:
+  title: Bhaiṣajyagurupūrvapraṇidhānasūtra
+  language: bo
+bases:
+  033D:
+    base_file: 033D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

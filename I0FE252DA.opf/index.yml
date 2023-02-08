@@ -1,0 +1,87 @@
+id: 36fbe8b498c64919baef88c9694347c0
+annotation_type: index
+revision: '00001'
+annotations:
+  1ba5dde0f5a642579a4e6b1e8e5a2dd2:
+    base: 033D.txt
+    Chapters:
+    - title: §0-4
+      span:
+        start: 0
+        end: 2144
+    - title: §5
+      span:
+        start: 2145
+        end: 7818
+    - title: §6
+      span:
+        start: 7819
+        end: 8898
+    - title: §7
+      span:
+        start: 8899
+        end: 10404
+    - title: §8
+      span:
+        start: 10405
+        end: 11546
+    - title: §9
+      span:
+        start: 11547
+        end: 12733
+    - title: §10
+      span:
+        start: 12734
+        end: 13746
+    - title: §11-12
+      span:
+        start: 13747
+        end: 15283
+    - title: §13
+      span:
+        start: 15284
+        end: 16293
+    - title: §14
+      span:
+        start: 16294
+        end: 18235
+    - title: §15
+      span:
+        start: 18236
+        end: 19363
+    - title: §16
+      span:
+        start: 19364
+        end: 21647
+    - title: §17
+      span:
+        start: 21648
+        end: 23209
+    - title: §18
+      span:
+        start: 23210
+        end: 24136
+    - title: §19
+      span:
+        start: 24137
+        end: 25349
+    - title: §20
+      span:
+        start: 25350
+        end: 26673
+    - title: §21
+      span:
+        start: 26674
+        end: 28532
+    - title: §22
+      span:
+        start: 28533
+        end: 29218
+    - title: §23
+      span:
+        start: 29219
+        end: 29503
+    - title: Colophon
+      span:
+        start: 29504
+        end: 29796
